@@ -1,0 +1,6 @@
+{
+  "name": "Where is the Leaf? - English Learning Game",
+  "description": "An interactive classroom English learning game for elementary students to learn leaf, field, forest, and river with fun animations, pronunciation, and audio.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
