@@ -5,6 +5,7 @@ import {defineConfig} from 'vite';
 
 export default defineConfig(() => {
   return {
+    base: '/find-the-leaf/',
     plugins: [react(), tailwindcss()],
     resolve: {
       alias: {
